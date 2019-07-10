@@ -16,6 +16,14 @@
 <path d="M305 310 Q300 300, 300 290" stroke="black" fill="none" stroke-width="5" />
 <path d="M175 310 Q180 300, 180 290" stroke="black" fill="none" stroke-width="5" />
 
+<path d="M200 250 L125 250" stroke="black" stroke-width="5" />
+<path d="M200 230 L125 220" stroke="black" stroke-width="5" />
+<path d="M200 270 L125 280" stroke="black" stroke-width="5" />
+
+<path d="M280 250 L355 250" stroke="black" stroke-width="5" />
+<path d="M280 230 L355 220" stroke="black" stroke-width="5" />
+<path d="M280 270 L355 280" stroke="black" stroke-width="5" />
+
 
 
 
