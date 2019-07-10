@@ -1,0 +1,24 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+<ellipse fill="white" stroke="black" stroke-width="5"  cx="250" cy="250" rx="200" ry="170"/>
+<ellipse fill="black" stroke="black" stroke-width="5"  cx="150" cy="280" rx="10" ry="18"/>
+<ellipse fill="black" stroke="black" stroke-width="5"  cx="350" cy="280" rx="10" ry="18"/>
+<ellipse fill="white" stroke="black" stroke-width="5"  cx="250" cy="310" rx="18" ry="10"/>
+<path d="M52 270 C70 271.6,86 273.2,100 275" stroke="black" fill="none" stroke-width="7"/>
+<path d="M63 310 C79 310.5,95 310.5,111 310" stroke="black" fill="none" stroke-width="7"/>
+<path d="M89 350 C105 349,121 348,137 347" stroke="black" fill="none" stroke-width="7"/>
+
+<path d="M448 270 C430 271.6,414 273.2,400 275 " stroke="black" fill="none" stroke-width="7"/>
+<path d="M437 310 C421 310.5,405 310.5,389 310" stroke="black" fill="none" stroke-width="7"/>
+<path d="M411 350 C395 349,379 348,363 347" stroke="black" fill="none" stroke-width="7"/>
+
+<path d="M90 149 C102.14 85,107 30,175 91" stroke="black" fill="none" stroke-width="5"/>
+<path d="M410 149 C397.86 85,393 30,325 91" stroke="black" fill="none" stroke-width="5"/>
+
+<circle fill="white" stroke="black" stroke-width="5" cx="330" cy="150" r="20"/>
+<ellipse fill="white" stroke="black" stroke-width="5"  cx="295" cy="150" rx="15" ry="30"/>
+<ellipse fill="white" stroke="black" stroke-width="5"  cx="365" cy="150" rx="15" ry="30"/>
+</svg>

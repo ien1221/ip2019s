@@ -1,0 +1,23 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="gold"></rect>
+
+
+<circle fill="black" stroke="black" stroke-width="5" cx="90" cy="200" r="70"/>
+<circle fill="black" stroke="black" stroke-width="5" cx="390" cy="200" r="70"/>
+<circle fill="white" stroke="white" stroke-width="5" cx="385" cy="200" r="60"/>
+<circle fill="white" stroke="white" stroke-width="5" cx="95" cy="200" r="60"/>
+<ellipse fill="gold" stroke="black" stroke-width="5" cx="240" cy="260" rx="100" ry="50"/>
+<ellipse fill="gold" stroke="black" stroke-width="5" cx="150" cy="350" rx="50" ry="100"/>
+<ellipse fill="gold" stroke="black" stroke-width="5" cx="330" cy="350" rx="50" ry="100"/>
+<circle fill="gold" stroke="gold" stroke-width="5" cx="170" cy="275" r="35"/>
+<circle fill="gold" stroke="gold" stroke-width="5" cx="310" cy="275" r="35"/>
+<ellipse fill="black" stroke="black" stroke-width="5" cx="240" cy="300" rx="75" ry="50"/>
+<path d="M198 380 Q240 410, 282 380" stroke="black" fill="none" stroke-width="5" />
+
+
+
+
+
+</svg>

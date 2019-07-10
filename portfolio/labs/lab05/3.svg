@@ -1,0 +1,22 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+
+<circle fill="blue" stroke="black" stroke-width="5" cx="240" cy="250" r="200"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="240" cy="280" rx="180" ry="160"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="300" cy="140" rx="60" ry="70"/>
+<ellipse fill="white" stroke="black" stroke-width="5" cx="180" cy="140" rx="60" ry="70"/>
+<ellipse fill="black" stroke="black" stroke-width="5" cx="300" cy="140" rx="18" ry="21"/>
+<ellipse fill="black" stroke="black" stroke-width="5" cx="180" cy="140" rx="18" ry="21"/>
+<circle fill="red" stroke="black" stroke-width="5" cx="240" cy="200" r="20"/>
+<path d="M240 220 L240 320" stroke="black" stroke-width="5" />
+<path d="M180 300 Q240 340, 300 300" stroke="black" fill="none" stroke-width="5" />
+<path d="M305 310 Q300 300, 300 290" stroke="black" fill="none" stroke-width="5" />
+<path d="M175 310 Q180 300, 180 290" stroke="black" fill="none" stroke-width="5" />
+
+
+
+
+</svg>
